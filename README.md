@@ -1,6 +1,7 @@
 # README
 
 Submission for APSIPA ASC 2025 GC. The checkpoint is in **"./log/APSIPA_2025_ASC_GC/best_model_2"**.
+
 Checkpoint: https://drive.google.com/file/d/1NauKrMAkjf6MebvAGxYqUOKajf1uYE5w/view?usp=sharing
 
 ## Inference
